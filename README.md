@@ -13,7 +13,7 @@ NumPy
 ### 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/AlirezaHabibi1377/YOLO-Object-Detection
+git clone [https://github.com/AlirezaHabibi1377/YOLO-Object-Detection](https://github.com/AlirezaHabibi1377/YOLO-Object-Detection.git)
 cd yolo-object-detection
 
 ### 2. Set Up Virtual Environment (Optional but Recommended)
