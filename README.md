@@ -10,7 +10,7 @@ NumPy
 
 # Installation
 
-1. Clone the Repository
+### 1. Clone the Repository
 bash
 Copy code
 git clone https://github.com/AlirezaHabibi1377/YOLO-Object-Detection
