@@ -26,3 +26,27 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 bash
 Copy code
 pip install opencv-python numpy
+
+# Usage
+
+1. Prepare YOLO Model Files
+Download the YOLO model configuration, weights, and class names files. Ensure the following files are available in the specified paths:
+
+yolov3.cfg (YOLO configuration file)
+yolov3.weights (YOLO pre-trained weights)
+coco.names (COCO class labels)
+Update the paths in the script to point to these files.
+
+2. Update Image Path
+Set the path to the image you want to use for object detection. Update the img_path variable in the script:
+
+python
+Copy code
+img_path = r"E:\Perception working\Opencv\yolo_object_detection\sample5.jpg"  # Change this to your image path
+
+3. Run the Script
+Execute the Python script:
+
+bash
+Copy code
+python yolo_object_detection.py
