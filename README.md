@@ -41,8 +41,9 @@ Update the paths in the script to point to these files.
 Set the path to the image you want to use for object detection. Update the img_path variable in the script:
 
 python
-Copy code
+```bash
 img_path = r"E:\Perception working\Opencv\yolo_object_detection\sample5.jpg"  # Change this to your image path
+```
 
 3. Run the Script
 Execute the Python script:
