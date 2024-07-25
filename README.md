@@ -48,6 +48,4 @@ img_path = r"E:\Perception working\Opencv\yolo_object_detection\sample5.jpg"  # 
 Execute the Python script:
 
 ```bash
-Copy code
 python yolo_object_detection.py
-```
