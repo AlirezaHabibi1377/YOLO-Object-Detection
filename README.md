@@ -4,9 +4,9 @@ This project demonstrates object detection using the YOLO algorithm with OpenCV 
 
 # Prerequisites
 
-Python 3.9
-OpenCV
-NumPy
+### 1. Python 3.9
+### 2. OpenCV
+### 3. NumPy
 
 # Installation
 
