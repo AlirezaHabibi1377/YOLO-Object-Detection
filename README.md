@@ -51,6 +51,9 @@ Execute the Python script:
 ```bash
 python yolo_object_detection.py
 ```
+# Outputs
+![Output Image](images/output_sample4.jpg)
+
 
 # Contact
 
