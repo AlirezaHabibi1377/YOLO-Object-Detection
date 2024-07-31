@@ -53,10 +53,10 @@ python yolo_object_detection.py
 ```
 # Outputs
 
-![Output Image](images/output_sample1.jpg)
-![Output Image](images/output_sample2.jpg)
-![Output Image](images/output_sample3.jpg)
-![Output Image](images/output_sample4.jpg)
+![Output Image](output_sample1.jpg)
+![Output Image](output_sample2.jpg)
+![Output Image](output_sample3.jpg)
+![Output Image](output_sample4.jpg)
 
 
 # Contact
