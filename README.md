@@ -50,6 +50,7 @@ Execute the Python script:
 
 ```bash
 python yolo_object_detection.py
+```
 
 # Contact
 
