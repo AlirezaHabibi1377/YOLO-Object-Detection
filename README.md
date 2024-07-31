@@ -1,5 +1,3 @@
-My email: [mo.alireza77habibi@gmail.com](mailto:mo.alireza77habibi@gmail.com)
-
 # YOLO Object Detection
 
 This project demonstrates object detection using the YOLO algorithm with OpenCV in Python. The provided code loads a pre-trained YOLO model and performs object detection on a given image, displaying the detected objects with bounding boxes.
@@ -52,3 +50,7 @@ Execute the Python script:
 
 ```bash
 python yolo_object_detection.py
+
+### 4. Contact
+
+My email: [mo.alireza77habibi@gmail.com](mailto:mo.alireza77habibi@gmail.com)
